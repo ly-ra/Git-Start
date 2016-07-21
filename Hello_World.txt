@@ -1,2 +1,3 @@
 print ("Hello, World")
-print("Hello, Вселенная!")
+print("Hello, Вселенная")
+print ("Hello, amikoj!")
